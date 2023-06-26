@@ -3,7 +3,7 @@
 
 - I’m interested in building robust automatic behaviour. As agnostic as they come.
 
-- I’m looking to learn, always, and that's it
+- I’m looking to learn, always, and that's it.
 
 - If you have a project that involves a lot of brainstorming and tinkering, I’d love to hear about/be part of it.
 
