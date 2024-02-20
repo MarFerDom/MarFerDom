@@ -1,11 +1,11 @@
 <h2 align="left">Hi there 👋! My name is Marcelo. </h2>
 <br>
 
-- I’m interested in building robust automatic behaviour. As agnostic as they come.
+- I’m interested in building robust autonomous behaviour.
 
-- I’m looking to learn, always, and that's it.
+- Enjoy tinkering and figuring out the inner workings.
 
-- If you have a project that involves a lot of brainstorming and tinkering, I’d love to hear about/be part of it.
+- If you're looking for someone to do some brainstorming and prototyping, I’d love to hear about your project.
 
 <br>
 
